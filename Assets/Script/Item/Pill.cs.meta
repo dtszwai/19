@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 40f3a467717ce4816a5d895978259947
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Aura: {fileID: 8037367600017698000, guid: b3a991a78034c428d858b1dbb2b127ad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
